@@ -265,6 +265,3 @@ This project helps developers gain experience with:
 
 ---
 
-## License
-
-This project is open source and available under the MIT License.
